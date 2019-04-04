@@ -1,0 +1,9 @@
+diff a/EventOneTask/GitTest/GitRepository.cs b/EventOneTask/GitTest/GitRepository.cs	(rejected hunks)
+@@ -17,6 +17,7 @@
+             gitInfo.RedirectStandardError = true;
+             gitInfo.RedirectStandardOutput = true;
+             gitInfo.FileName = mGitInstalledPath;
++
+         }
+ 
+         public String gitFetchMethod()
