@@ -17,6 +17,7 @@ namespace GitTest
             gitInfo.RedirectStandardError = true;
             gitInfo.RedirectStandardOutput = true;
             gitInfo.FileName = mGitInstalledPath;
+
         }
 
         public String gitFetchMethod()
