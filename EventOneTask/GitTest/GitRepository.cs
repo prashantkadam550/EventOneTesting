@@ -11,6 +11,7 @@ namespace GitTest
     {
         private string mGitInstalledPath = @"C:\Program Files\Git\bin\git.exe";
         ProcessStartInfo gitInfo = new ProcessStartInfo();
+        //baase class 
         public GitRepository()
         {
             gitInfo.CreateNoWindow = true;

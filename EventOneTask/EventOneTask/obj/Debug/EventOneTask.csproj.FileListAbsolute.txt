@@ -19,3 +19,6 @@ D:\Event 1\EventOneTask\EventOneTask\obj\Debug\EventOneTask.csproj.GenerateResou
 E:\Git\EventOneTesting\EventOneTask\EventOneTask\bin\Debug\EventOneTask.exe.config
 E:\Git\EventOneTesting\EventOneTask\EventOneTask\obj\Debug\EventOneTask.exe
 E:\Git\EventOneTesting\EventOneTask\EventOneTask\obj\Debug\EventOneTask.pdb
+D:\Event1training\Git\EventOneTesting\EventOneTask\EventOneTask\bin\Debug\EventOneTask.exe.config
+D:\Event1training\Git\EventOneTesting\EventOneTask\EventOneTask\obj\Debug\EventOneTask.exe
+D:\Event1training\Git\EventOneTesting\EventOneTask\EventOneTask\obj\Debug\EventOneTask.pdb
